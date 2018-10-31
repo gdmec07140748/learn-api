@@ -15,7 +15,7 @@
 - -t 结果目录
 
 ```bash
- phpdoc -d E:\project\jingfei\code\fundman-wework\include\api -t E:\project\jingfei\code\fundman-wework\controller-bat\doc
+ phpdoc -d E:\project\jingfei\code\fundman-wework\include\api -t E:\project\jingfei\code\wx\bat\other\doc
 ```
 
 
