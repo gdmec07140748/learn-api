@@ -27,3 +27,5 @@
 1. [tar 使用](/learn/tar.md)
 
 1. [java 使用](/learn/java.md)
+
+1. [JavaScript 使用](/learn/JavaScript.md)
