@@ -4,6 +4,8 @@
 1. 更新代码
     - git pull
 
+1. 方向：vue -- JavaScript -- Java
+
 1. [unix 网络编程](https://blog.csdn.net/ahuang1900/article/details/38058855)
 
 1. [python 使用](/learn/python.md)
