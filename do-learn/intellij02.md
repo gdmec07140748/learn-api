@@ -1,0 +1,1 @@
+- 生成Get/Set方法快捷键 alt+insert
