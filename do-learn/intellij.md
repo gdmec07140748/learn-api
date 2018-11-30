@@ -48,8 +48,11 @@
 - package 创建
  ![in10](../img/in10.png)
 
+- 模块依赖关系添加
 
- ![in01](../img/in01.png)
+ ![in11](../img/in11.png)
 
+ ![in12](../img/in12.png)
 
+- 其他
  ![in01](../img/in01.png)
