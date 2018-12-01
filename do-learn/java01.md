@@ -1,7 +1,9 @@
 
 - 安装目录 - D:\java
 
-- [video 视频](https://www.imooc.com/video/17231)
+- [Java 模块 视频](https://www.imooc.com/video/17231)
+
+- [IntelliJ IDEA神器使用技巧 视频](https://www.imooc.com/video/16216)
 
 - [jdk11 安装](https://jingyan.baidu.com/article/d3b74d64164d361f77e60938.html)
 
