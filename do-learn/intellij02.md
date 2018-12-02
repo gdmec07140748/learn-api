@@ -102,3 +102,16 @@
     - 成员变量
     - 方法参数 ctrl + Alt + p （成员变量变方法参数）
     - 函数 ctrl + Alt + m
+
+- git 
+    - Annotate 寻找代码修改轨迹 
+    - 所有改动的地方 previous change  -- ctrl + Alt + Shift + 向上箭头
+    - 撤销 所有 ctrl + Alt + z
+
+- local history 
+
+- 关联一切
+    - spring -》 File - Project Structure - Facets - 点击 + - 
+    - 数据库 - 连接数据库 - 修改语句 - 修改表名 - 重构
+
+- 调试    

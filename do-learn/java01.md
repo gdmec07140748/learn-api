@@ -3,7 +3,7 @@
 
 - [Java 模块 视频](https://www.imooc.com/video/17231)
 
-- [IntelliJ IDEA神器使用技巧 视频](https://www.imooc.com/video/16216)
+- [IntelliJ IDEA神器使用技巧 视频](https://www.imooc.com/video/16228)
 
 - [SpringMVC](https://www.imooc.com/video/9338)
 
