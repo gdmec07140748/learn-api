@@ -1,5 +1,7 @@
 - 生成Get/Set方法快捷键 alt+insert
 
+- 输出 System.out.println  - sout
+
 - 关闭项目 
     - 菜单（File）--》 关闭项目(close project)
 
