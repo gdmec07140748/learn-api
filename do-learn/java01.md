@@ -17,6 +17,8 @@
 
 - [intellij idea 破解](https://www.cnblogs.com/aacoutlook/p/9036299.html)
 
+- [一步一步使用 IntelliJ IDEA 创建简单的 Web 应用](https://juejin.im/post/5a3522ec6fb9a0450671b2c0#heading-2)
+
 - []()
 - []()
 - []()
