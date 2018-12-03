@@ -24,7 +24,7 @@
 
 - 建议将现在的仓库变为国内的仓库,改Maven开发包中的"conf/settings.xml"文件
 ``` xml
- <mirror>
+    <mirror>
         <id>nexus-pentaho</id>
         <mirrorOf>central</mirrorOf>
         <name>Nexus pentaho</name>
