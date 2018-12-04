@@ -1,7 +1,7 @@
 
 - [仓库 搜索 pom.xml ](https://mvnrepository.com/artifact/org.springframework/spring-core/5.1.3.RELEASE)
 
-- [imooc Spring MVC起步](https://www.imooc.com/video/7533)
+- [imooc Spring MVC起步](https://www.imooc.com/video/7683)
 
 - [github springMVC](https://github.com/Cenyol/SpringMVC/blob/master/src/main/webapp/WEB-INF/web.xml)
 
