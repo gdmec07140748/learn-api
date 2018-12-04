@@ -5,9 +5,9 @@
 
 - [IntelliJ IDEA神器使用技巧 视频](https://www.imooc.com/video/16228)
 
-- [SpringMVC](https://www.imooc.com/video/9338)
+- [SpringMVC 使用SpringMVC+Spring+Hibernate开发人员信息管理功能](https://www.imooc.com/video/9338)
 
-- [Hibernate](https://www.imooc.com/learn/524)
+- [Hibernate Hibernate注解](https://www.imooc.com/learn/524)
 
 - [jdk11 安装](https://jingyan.baidu.com/article/d3b74d64164d361f77e60938.html)
 

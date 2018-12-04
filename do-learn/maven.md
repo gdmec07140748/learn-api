@@ -1,6 +1,6 @@
 - [maven 使用](http://wiki.jikexueyuan.com/project/maven/project-templates.html)
 
-- [maven 02](https://www.oracle.com/technetwork/cn/community/java/apache-maven-getting-started-1-406235-zhs.html)
+- [Apache Maven 入门篇 ( 上 )](https://www.oracle.com/technetwork/cn/community/java/apache-maven-getting-started-1-406235-zhs.html)
 
 - clean 删除 target
 
