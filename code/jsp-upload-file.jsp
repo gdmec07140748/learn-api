@@ -1,17 +1,19 @@
-<%@ page language="java" pageEncoding="UTF-8"%>
-    <!DOCTYPE HTML>
+<%@ page pageEncoding="utf-8"%>
+    <!DOCTYPE html>
     <html>
 
     <head>
-        <title>文件上传</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Photo Upload</title>
     </head>
 
     <body>
-        <form action="${pageContext.request.contextPath}/servlet/UploadHandleServlet" enctype="multipart/form-data" method="post">
-            上传用户：<input type="text" name="username"><br/> 上传文件1：
-            <input type="file" name="file1"><br/> 上传文件2：
-            <input type="file" name="file2"><br/>
-            <input type="submit" value="提交">
+        <h1>Select your photo and upload</h1>
+        <hr/>
+        <div style="color:red;font-size:14px;">${hint}</div>
+        <form action="UploadServlet" method="post" enctype="multipart/form-data">
+            Photo file: <input type="file" name="photo" />
+            <input type="submit" value="Upload" />
         </form>
     </body>
 

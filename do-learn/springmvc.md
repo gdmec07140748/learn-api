@@ -13,7 +13,7 @@
 
 - [git code](https://github.com/wosyingjun/beauty_ssm/tree/master/src)
 
-- [document](https://github.com/brianway/springmvc-mybatis-learning/tree/master/springmvc)
+- [git document](https://github.com/brianway/springmvc-mybatis-learning/tree/master/springmvc)
 
 - [git code2](https://github.com/liyifeng1994/ssm)
 
