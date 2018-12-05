@@ -1,3 +1,12 @@
+- 接收页面的值 servlet - web.xml 配置
+- 向页面传值
+
+- 查询消息给页面 
+    - service
+    - dao
+
+- 展示消息
+
 
 - [仓库 搜索 pom.xml ](https://mvnrepository.com/artifact/org.springframework/spring-core/5.1.3.RELEASE)
 
