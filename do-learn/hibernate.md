@@ -1,6 +1,6 @@
 - [youtube Connect intellij IDEA with Hibernate](https://www.youtube.com/watch?v=ULw3FdgaLp0)
 
-- [imooc Hibernate初探之单表映射](https://www.imooc.com/video/7714)
+- [imooc Hibernate初探之单表映射](https://www.imooc.com/video/7714) wan
 
 - Mybatis 
 

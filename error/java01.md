@@ -9,6 +9,8 @@
 
 - [IntelliJ IDEA 2017 配置Tomcat 运行Web项目](https://www.cnblogs.com/xuange306/p/7012341.html)
 
+- maven error: element dependency can not have character children
+    - 重新敲，不能复制
 
 ```java
 
