@@ -1,5 +1,18 @@
 
+- [设置查看源码](https://my.oschina.net/u/1166518/blog/1583852)
+
 - [快捷键参考](https://github.com/judasn/IntelliJ-IDEA-Tutorial/blob/master/keymap-introduce.md)
+
+- Ctrl + Y	删除光标所在行 或 删除选中的行 （必备）
+- Ctrl + Alt + L	格式化代码，可以对当前文件和整个包目录使用 
+
+- Ctrl + Shift + B	跳转到类型声明处 （必备）
+- Ctrl + Shift + I	快速查看光标所在的方法 或 类的定义
+
+- Ctrl + Shift + +	展开所有代码 （必备）
+- Ctrl + Shift + -	折叠所有代码 （必备）
+
+- Ctrl + Shift + Enter	自动结束代码，行末自动添加分号 
 
 - 生成Get/Set方法快捷键 alt+insert
 
